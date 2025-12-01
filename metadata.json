@@ -1,0 +1,5 @@
+{
+  "name": "Divot Theory Visualizer",
+  "description": "A quantum-aesthetic dashboard visualizing the Divot Theory evidence suite, featuring interactive 3D topology, correlation metrics, leakage analysis, and memory organization simulations, powered by Gemini AI for analysis.",
+  "requestFramePermissions": []
+}
